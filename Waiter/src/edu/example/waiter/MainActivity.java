@@ -20,7 +20,7 @@ public class MainActivity extends ActionBarActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.ventana2);
+        setContentView(R.layout.fragment_main);
 
          if (savedInstanceState == null) {
             getSupportFragmentManager().beginTransaction()
