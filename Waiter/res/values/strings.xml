@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">WaiterMovil</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="form_intro">Inicio de Sesión:</string>
+    <string name="form_correo">Correo:</string>
+    <string name="form_correonuevo">Conf. Correo:</string>
+    <string name="form_pass">Password:</string>
+    <string name="form_submit">Entrar</string>
+    <string name="form_cuenta">Crear Cuenta</string>
+    <string name="form_cancelar">Cancelar</string>
+    <string name="form_nombre">Nombre:</string>
+    <string name="form_apellido">Apellido:</string>
+
+
+</resources>
+
+
